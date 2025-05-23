@@ -5,5 +5,5 @@ Test Result
 
 Train Result
 
-![image](https://github.com/user-attachments/assets/4668da8d-81e7-4966-845f-1ed312f8597b)
+![newplot (2)](https://github.com/user-attachments/assets/7b792079-486c-4da4-8d7d-aac73a09357c)
 
