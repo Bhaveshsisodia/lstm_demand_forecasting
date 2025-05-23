@@ -1,4 +1,4 @@
-# lstm_demand_forecasting
+# lSTM Electricity Load Forecasting
 lstm_demand_forecasting
 Test Result
 ![image](https://github.com/user-attachments/assets/2380eea8-09ba-420e-99cb-0b3b6031509e)
